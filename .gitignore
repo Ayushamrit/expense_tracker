@@ -1,0 +1,17 @@
+# Root
+node_modules/
+.env
+*.log
+
+# Backend scratch/test files
+backend/node_modules/
+backend/uploads/
+backend/dedup.js
+backend/check_kabir.js
+backend/reset_aisha.js
+backend/reset_rohan.js
+backend/test_balance.js
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
