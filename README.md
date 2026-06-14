@@ -45,3 +45,9 @@ Click the "Import CSV" button and upload the provided `expenses_export.csv` to s
 
 ## AI Usage
 I used an AI assistant to build this application. See `AI_USAGE.md` for a detailed breakdown of prompts and corrections.
+
+
+## Live URLs
+- Frontend: Vercel
+- Backend: Render
+- DB: Railway
