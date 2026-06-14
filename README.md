@@ -51,3 +51,4 @@ I used an AI assistant to build this application. See `AI_USAGE.md` for a detail
 - Frontend: Vercel
 - Backend: Render
 - DB: Railway
+- Project is live at: https://expense-tracker-teal-xi-79.vercel.app/
